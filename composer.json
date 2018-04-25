@@ -1,5 +1,5 @@
 {
-    "name": "osamuya/lara-helper",
+    "name": "osamthing/lara-helper",
     "version": "0.1",
     "description": "Helper function available with plus alpha in Laravel",
     "keywords": ["Test", "API", "Develop"],
@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-4": {
-            "osamuya\\Larahelper\\": "src/"
+            "osamthing\\Larahelper\\": "src/"
         }
     }
 }

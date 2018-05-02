@@ -1,0 +1,16 @@
+{
+    "name": "osamuya/test-package",
+    "version": "0.1",
+    "description": "testPackage",
+    "keywords": ["Test", "API", "Develop"],
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "monolog/monolog": "^1.23.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "osamuya\\TestPackage\\": "src/"
+        }
+    }
+}
